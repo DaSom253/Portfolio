@@ -11,7 +11,7 @@ What does not kill me makes me stronger. <Twilight of the Idols ― Friedrich Ni
  <br/>
  임채연 : 모델링, 디자인
  <br/>
- 
+  
 -링크
 <br/>
 https://github.com/Yuhahak/Oculus_Study
@@ -20,7 +20,7 @@ https://github.com/Yuhahak/Oculus_Study
 -참여한 팀
 <br/>
  5팀, 주로 Python 또는 JAVA로 해결하였습니다.
-
+ 
 -링크
 <br/>
 https://github.com/BCU-ComOn/2022_1st_Algorithm
@@ -31,7 +31,7 @@ https://github.com/BCU-ComOn/2022_1st_Algorithm
  이다솜, 황스일, 황정연
  <br/>
  서로 모르는 부분을 도와주며 성공적으로 반응형 웹사이트를 완성할 수 있었습니다.
-
+ 
 -링크
 https://github.com/BCU-ComOn/responsive
 
@@ -39,7 +39,7 @@ https://github.com/BCU-ComOn/responsive
 -참여한 사람
 <br/>
  이다솜 : HTML, CSS, JavaScript
- 
+  
 -링크
 <br/>
 https://github.com/DaSom253/kokoa-clone-2020
