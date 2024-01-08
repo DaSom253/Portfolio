@@ -1,5 +1,6 @@
-# Portfolio
-dasom's Portfolio
+# Dasom's Portfolio
+What does not kill me makes me stronger. <Twilight of the Idols ― Friedrich Nietzsche
+끊임없이 성장하는 개발자가 되고자합니다.
 
 <h2>😎2023/11 : VR FPS 게임 제작 / VR 방탈출 게임 제작😎</h2>
 <br/>
@@ -16,7 +17,7 @@ dasom's Portfolio
 <br/>
 https://github.com/Yuhahak/Oculus_Study
 
-📝2022/04 : 학과 동아리, 알고리즘 스터디📝
+<h2>📝2022/04 : 학과 동아리, 알고리즘 스터디📝</h2>
 <br/>
 -참여한 팀
 <br/>
@@ -26,7 +27,7 @@ https://github.com/Yuhahak/Oculus_Study
 <br/>
 https://github.com/BCU-ComOn/2022_1st_Algorithm
 
-📝2021/11 : 학과 동아리, 반응형 웹사이트 개인 프로젝트📝
+<h2>📝2021/11 : 학과 동아리, 반응형 웹사이트 개인 프로젝트📝</h2>
 <br/>
 -참여한 사람
 <br/>
@@ -37,7 +38,7 @@ https://github.com/BCU-ComOn/2022_1st_Algorithm
 -링크
 https://github.com/BCU-ComOn/responsive
 
-💻2020/11 : FIRST KAKAO CLONE CORDING💻
+<h2>💻2020/11 : FIRST KAKAO CLONE CORDING💻</h2>
 <br/>
 -참여한 사람
 <br/>
