@@ -17,7 +17,6 @@ What does not kill me makes me stronger. <Twilight of the Idols ― Friedrich Ni
 https://github.com/Yuhahak/Oculus_Study
 
 <h2>📝2022/04 : 학과 동아리, 알고리즘 스터디📝</h2>
-<br/>
 -참여한 팀
 <br/>
  5팀, 주로 Python 또는 JAVA로 해결하였습니다.
