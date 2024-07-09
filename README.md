@@ -1,5 +1,4 @@
 # Dasom's Portfolio
-What does not kill me makes me stronger. <Twilight of the Idols ― Friedrich Nietzsche <br/>
 끊임없이 성장하는 개발자가 되고자합니다.
 
 <h2>😎2023/11 : VR FPS 게임 제작 / VR 방탈출 게임 제작😎</h2>
